@@ -1,3 +1,4 @@
+##### Clojure #####
 pom.xml
 pom.xml.asc
 *.jar
@@ -12,3 +13,17 @@ pom.xml.asc
 .lein-failures
 .nrepl-port
 .cpcache/
+
+**/CHANGELOG.md
+**/intro.md
+
+##### VS Code #####
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
