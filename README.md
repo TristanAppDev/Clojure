@@ -1,3 +1,6 @@
-# Clojure for the Brave and True
+# My Path to Clojure
 
-## Chapter 3 - Getting Started
+## Clojure for the Brave and True
+### Chapter 3 - Getting Started
+
+## Free Practice
