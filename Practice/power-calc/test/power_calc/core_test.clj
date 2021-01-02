@@ -1,6 +1,6 @@
-(ns ch3-learning.core-test
+(ns power-calc.core-test
   (:require [clojure.test :refer :all]
-            [ch3-learning.core :refer :all]))
+            [power-calc.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
